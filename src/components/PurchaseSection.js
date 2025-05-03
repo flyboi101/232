@@ -64,7 +64,7 @@ const PurchaseSection = () => {
           </div>
           
           <div className="long-rectangle">
-            ADD CONTACT ADDRESS
+            6NQcro2bqTwbrEA1cAUSGtzVBVdibzsKxbvwkAAapump
           </div>
         </div>
       </section>
